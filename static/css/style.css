@@ -3,8 +3,11 @@ body {
   margin: 0;
 }
 
-#map,
+#map1
 body,
 html {
   height: 100%;
+  width:100%;
 }
+
+
